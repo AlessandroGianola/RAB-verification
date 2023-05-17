@@ -3,7 +3,7 @@
 This repository contains a benchmark set for safety checking of relational action bases (RABs for short). 
 Each file in the set consists of a RAB model specification and a corresponding (un)safety property to verify. 
 The provided files can be immediately tested using the latest version of the [MCMT model checker](http://users.mat.unimi.it/users/ghilardi/mcmt/).
-We also attach a [file](https://github.com/AlessandroGianola/blob/main/RAB-verification/RAB-benchmark-time-log.txt) with average execution times per benchmark specification.
+We also attach a [file](https://github.com/AlessandroGianola/RAB-verification/blob/main/RAB-benchmark-time-log.txt) with average execution times per benchmark specification.
 
 ## How to run MCMT?
 MCMT is an SMT-based model checker that supports verification of infinite-state transition systems. One can download it [here](http://users.mat.unimi.it/users/ghilardi/mcmt/license.html).
